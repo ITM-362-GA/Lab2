@@ -31,3 +31,13 @@ input {
   border-radius: 5px;
   border: 1px solid #ccc;
 }
+
+input[type="submit"] {
+  background-color: #006400;
+  color: white;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #369C8C;
+}
